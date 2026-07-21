@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[85720,["/_next/static/chunks/0infu542v4ts_.js","/_next/static/chunks/0fu4-wo-bkxs1.js","/_next/static/chunks/14iqyqw05mszk.js"],""]
+3:I[44969,["/_next/static/chunks/0infu542v4ts_.js","/_next/static/chunks/0fu4-wo-bkxs1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"legal-page","children":["$","article",null,{"children":[["$","$L2",null,{"href":"/","children":"← Вернуться на главную"}],["$","span",null,{"className":"eyebrow","children":"Документы"}],["$","h1",null,{"children":"Политика конфиденциальности"}],["$","p",null,{"children":"Это демонстрационная страница. Формы проекта не отправляют и не сохраняют персональные данные."}],["$","h2",null,{"children":"Какие данные используются"}],["$","p",null,{"children":"При переходе по ссылкам телефона или электронной почты обработка данных происходит выбранным пользователем приложением."}],["$","h2",null,{"children":"Контакты"}],["$","p",null,{"children":"По вопросам обработки данных: hello@teplye-lapy.example."}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/14iqyqw05mszk.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s0Hs_GAvptMWXH3P6goJm"}
+5:null

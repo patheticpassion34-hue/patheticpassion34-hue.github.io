@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[85720,["/_next/static/chunks/0infu542v4ts_.js","/_next/static/chunks/0fu4-wo-bkxs1.js","/_next/static/chunks/14iqyqw05mszk.js"],""]
+3:I[44969,["/_next/static/chunks/0infu542v4ts_.js","/_next/static/chunks/0fu4-wo-bkxs1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"legal-page","children":["$","article",null,{"children":[["$","$L2",null,{"href":"/","children":"← Вернуться на главную"}],["$","span",null,{"className":"eyebrow","children":"Документы"}],["$","h1",null,{"children":"Пользовательское соглашение"}],["$","p",null,{"children":"Сайт является демонстрационным проектом вымышленного питомника мейн-кунов. Информация, контакты, котята и условия не являются публичной офертой."}],["$","h2",null,{"children":"Использование материалов"}],["$","p",null,{"children":"Фотографии мейн-кунов загружаются из публичного каталога Unsplash. Перед коммерческим запуском замените демонстрационный контент на материалы реального питомника."}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/14iqyqw05mszk.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s0Hs_GAvptMWXH3P6goJm"}
+5:null
